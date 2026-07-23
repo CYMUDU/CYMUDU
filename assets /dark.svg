@@ -146,14 +146,14 @@
 
     <g>
       <clipPath id="nameClip"><rect x="0" y="30" width="0" height="40"><animate attributeName="width" begin="0.7s" dur="1s" values="0;190" fill="freeze"/></rect></clipPath>
-      <text x="0" y="58" clip-path="url(#nameClip)" font-size="28" font-weight="700" fill="#F8FAFC">I'm Mudasir</text>
+      <text x="0" y="58" clip-path="url(#nameClip)" font-size="28" font-weight="700" fill="#F8FAFC">I'M Mudasir</text>
       <rect x="190" y="34" width="3" height="28" fill="#22D3EE" opacity="0">
         <animate attributeName="opacity" begin="1.7s" dur="0.3s" values="0;1" fill="freeze"/>
         <animate attributeName="opacity" begin="2.0s" dur="1s" values="1;0;1;0;1" calcMode="discrete" repeatCount="indefinite"/>
       </rect>
     </g>
 
-    <text x="0" y="82" font-size="14" fill="#94A3B8" opacity="0">AI &amp; Cybersecurity Engineering Student<animate attributeName="opacity" begin="2.1s" dur="0.6s" values="0;1" fill="freeze"/></text>
+    <text x="0" y="82" font-size="15" fill="#94A3B8" opacity="0">AI &amp; Cybersecurity Engineering Student<animate attributeName="opacity" begin="2.1s" dur="0.6s" values="0;1" fill="freeze"/></text>
 
     <text x="0" y="102" font-size="12.5" font-style="italic" fill="url(#accentGrad)" opacity="0">Transforming Ideas into Intelligent Systems.<animate attributeName="opacity" begin="2.5s" dur="0.6s" values="0;1" fill="freeze"/></text>
 
@@ -200,7 +200,7 @@
       </g>
       <g opacity="0"><animate attributeName="opacity" begin="3.4s" dur="0.5s" values="0;1" fill="freeze"/>
         <text x="0" y="184" font-size="10.5" fill="#94A3B8" letter-spacing="1.2">EDUCATION</text>
-        <text x="100" y="184">B.S. AI/ML — IIT Patna</text>
+        <text x="100" y="184">B.S. AI/CS — IIT Patna</text>
       </g>
       <g opacity="0"><animate attributeName="opacity" begin="3.6s" dur="0.5s" values="0;1" fill="freeze"/>
         <text x="0" y="208" font-size="10.5" fill="#94A3B8" letter-spacing="1.2">FOCUS</text>
@@ -208,7 +208,7 @@
       </g>
       <g opacity="0"><animate attributeName="opacity" begin="3.8s" dur="0.5s" values="0;1" fill="freeze"/>
         <text x="0" y="232" font-size="10.5" fill="#94A3B8" letter-spacing="1.2">LINKS</text>
-        <text x="100" y="232" font-size="12.5">p-mb-1967f.web.app · @_Mudasire</text>
+        <text x="100" y="232" font-size="12.5"> https://iammudasir.dev </text>
       </g>
     </g>
 
