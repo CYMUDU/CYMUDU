@@ -111,13 +111,7 @@
       <text x="0" y="120"  opacity="0"><animate attributeName="opacity" begin="1.7s"  dur="0.4s" values="0;1" fill="freeze"/>      |  |  |</text>
       <text x="0" y="144"  opacity="0"><animate attributeName="opacity" begin="2.0s"  dur="0.4s" values="0;1" fill="freeze"/>    [ MUDASIR ]</text>
       <text x="0" y="168"  opacity="0"><animate attributeName="opacity" begin="2.3s"  dur="0.4s" values="0;1" fill="freeze"/>   &lt;AI // SEC&gt;</text>
-    </g>
-    <rect x="0" y="180" width="9" height="16" fill="#22D3EE" opacity="0">
-      <animate attributeName="opacity" begin="2.3s" dur="0.4s" values="0;1" fill="freeze"/>
-      <animate attributeName="opacity" begin="2.7s" dur="0.9s" values="1;0;1;0;1" calcMode="discrete" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
+   
   <g transform="translate(94,300)" opacity="0">
     <animate attributeName="opacity" begin="2.6s" dur="0.5s" values="0;1" fill="freeze"/>
     <text x="0" y="0" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="20" font-weight="600" fill="#F8FAFC">MUDASIR BASHIR GANAIE</text>
