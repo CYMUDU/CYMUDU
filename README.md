@@ -1,7 +1,7 @@
 
 ## HI THERE 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img src="assets/dark.svg" alt="Mudasir Ganaie">
+  <source media="(prefers-color-scheme: dark)" srcset="assets%20/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets%20/light.svg">
+  <img src="assets%20/dark.svg" alt="Mudasir Ganaie">
 </picture>
