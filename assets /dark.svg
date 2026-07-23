@@ -124,11 +124,33 @@
     <text x="0" y="24" font-family="'SF Mono','Fira Code',Menlo,monospace" font-size="12" fill="#94A3B8" letter-spacing="1">@CYMUDU · Jammu &amp; Kashmir</text>
   </g>
 
-  <g transform="translate(94,344)" opacity="0" font-family="-apple-system,'Segoe UI',Roboto,sans-serif">
+  <rect x="94" y="336" width="300" height="1" fill="#94A3B8" opacity="0.2">
+    <animate attributeName="opacity" dur="3s" values="0.2;0.5;0.2" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(94,356)" opacity="0" font-family="-apple-system,'Segoe UI',Roboto,sans-serif">
     <animate attributeName="opacity" begin="3.0s" dur="0.5s" values="0;1" fill="freeze"/>
-    <text x="0" y="0" font-size="12" fill="#94A3B8" letter-spacing="1.5">STATUS</text>
-    <text x="0" y="20" font-size="13.5" fill="#F8FAFC">under develop 💭</text>
+
+    <text x="0" y="0" font-size="11" fill="#94A3B8" letter-spacing="1.8">STATUS</text>
+    <g transform="translate(0,22)">
+      <circle cx="7" cy="-4" r="4" fill="#22C55E" opacity="0.5">
+        <animate attributeName="opacity" dur="2.4s" values="0.45;1;0.45" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="0" font-size="15" font-weight="500" fill="#F8FAFC">Building MACE</text>
+    </g>
+
+    <text x="0" y="52" font-size="11" fill="#94A3B8" letter-spacing="1.8">CURRENT FOCUS</text>
+    <text x="0" y="74" font-size="15" font-weight="500" fill="#F8FAFC">Artificial Intelligence</text>
+
+    <text x="0" y="104" font-size="11" fill="#94A3B8" letter-spacing="1.8">MISSION</text>
+    <text x="0" y="126" font-size="15" font-weight="500" fill="#F8FAFC">Transforming Ideas into</text>
+    <text x="0" y="148" font-size="15" font-weight="500" fill="#F8FAFC">Intelligent Systems.</text>
   </g>
+
+  <rect x="94" y="516" width="300" height="1" fill="#94A3B8" opacity="0.2">
+    <animate attributeName="opacity" dur="3s" values="0.2;0.5;0.2" repeatCount="indefinite"/>
+  </rect>
+  <text x="94" y="536" font-family="'SF Mono','Fira Code',Menlo,monospace" font-size="11.5" fill="#22D3EE" opacity="0.45" letter-spacing="0.8">Neural Intelligence Engine</text>
 
   <rect x="460" y="24" width="696" height="524" rx="20" fill="#0F172A" fill-opacity="0.55" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
   <rect x="460" y="24" width="696" height="524" rx="20" fill="none" stroke="url(#shimmerGrad)" stroke-width="1.5"/>
