@@ -1,5 +1,3 @@
-
-## HI THERE 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets%20/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets%20/light.svg">
